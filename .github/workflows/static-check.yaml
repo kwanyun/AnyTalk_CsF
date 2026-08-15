@@ -5,6 +5,8 @@ on: [push, pull_request]
 jobs:
   static-check:
     runs-on: ${{ matrix.os }}
+    env:
+      PYTHONPATH: ${{ github.workspace }}
     strategy:
       matrix:
         os: [ubuntu-22.04]
