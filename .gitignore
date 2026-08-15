@@ -1,6 +1,6 @@
 # Model weights and downloaded dependencies
-pretrained_models/
-checkpoints/
+/pretrained_models/
+/checkpoints/
 *.ckpt
 *.onnx
 *.pt
@@ -8,12 +8,12 @@ checkpoints/
 *.safetensors
 
 # Target-character data and generated media
-data/
-datasets/
-outputs/
-cache/
+/data/
+/datasets/
+/outputs/
+/cache/
 .cache/
-mlruns/
+/mlruns/
 *.mp4
 *.wav
 *.tar
