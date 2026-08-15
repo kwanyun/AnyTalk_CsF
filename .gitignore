@@ -1,0 +1,35 @@
+# Model weights and downloaded dependencies
+pretrained_models/
+checkpoints/
+*.ckpt
+*.onnx
+*.pt
+*.pth
+*.safetensors
+
+# Target-character data and generated media
+data/
+datasets/
+outputs/
+cache/
+.cache/
+mlruns/
+*.mp4
+*.wav
+*.tar
+*.tar.gz
+
+# Python, notebook, build, and editor artifacts
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+.mypy_cache/
+.coverage
+build/
+dist/
+*.egg-info/
+.venv/
+venv/
+.idea/
+.vscode/

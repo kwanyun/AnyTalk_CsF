@@ -1,0 +1,10 @@
+This repository contains code derived from Hallo:
+https://github.com/fudan-generative-vision/hallo
+
+Hallo is Copyright (c) 2024 Fusion Lab: Generative Vision Lab of
+Fudan University and is distributed under the MIT License included in
+this repository.
+
+AnyTalk CsF modifications implement Character-specific Fine-tuning as
+described in "AnyTalk: Speech Animation for Arbitrary Characters
+Leveraging a Video Generation Model."
