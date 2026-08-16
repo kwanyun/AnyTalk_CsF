@@ -93,8 +93,4 @@ The AnyTalk defaults use pose `0`, expression `1`, and lip `2`. Use
 
 ## Notes
 
-Data, renders, generated videos, pretrained models, and checkpoints are not
-included in this repository.
-
-This implementation is derived from Hallo and AnyMoLe. See [LICENSE](LICENSE)
-and [NOTICE](NOTICE) for details.
+This implementation is derived from Hallo and AnyMoLe.
